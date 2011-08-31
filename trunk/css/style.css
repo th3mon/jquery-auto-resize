@@ -1,0 +1,12 @@
+#container {
+    border: 2px solid red;
+    height: 10px;
+    overflow: hidden;
+}
+.iframe {
+    background-color: yellow;
+    overflow: hidden;
+}
+p {
+    margin: 10px;
+}
